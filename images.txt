@@ -3,6 +3,6 @@ nginx
 koishijs/koishi:latest
 mlikiowa/llonebot-docker
 xhofe/alist:latest
-
+meetwq/meme-generator:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
