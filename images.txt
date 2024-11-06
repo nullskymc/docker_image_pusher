@@ -4,5 +4,6 @@ koishijs/koishi:latest
 mlikiowa/llonebot-docker
 xhofe/alist:latest
 meetwq/meme-generator:latest
+ghcr.io/sillytavern/sillytavern:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
